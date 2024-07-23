@@ -1,9 +1,4 @@
 import React,{useState} from 'react'
-import { MapPinIcon } from '@heroicons/react/24/outline'
-import { CiLocationOn } from 'react-icons/ci'
-import { PiDoor } from "react-icons/pi";
-import { MdOutlineFileDownload, MdOutlinePeopleAlt } from "react-icons/md";
-import { LuBedDouble } from "react-icons/lu";
 import AirConditioner from "../asset/air-conditioner.png"
 import CctvCamera from "../asset/cctv-camera.png"
 import Cleaning from "../asset/cleaning.png"
