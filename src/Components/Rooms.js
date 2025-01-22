@@ -15,7 +15,7 @@ const Rooms = () => {
                 </div>
             </div>
             <div className='lg:flex hidden  mt-2 lg:mt-3 items-center justify-center' >
-           <a target='_blank' rel='noreferrer' href="https://firebasestorage.googleapis.com/v0/b/union-living.appspot.com/o/files%2FSouthside%20by%20Union%20Digital%20(2).pdf?alt=media&token=2847ccc1-07e3-456f-8afd-17d87844f4aa" download> <button className="uppercase flex items-center justify-center gap-2 lg:gap-3 rounded-lg shadow-md  font-[NeueMedium] ease-in duration-300  text-[12px] md:text-[16px]  hover:shadow-none hover:bg-[#272727] tracking-wider py-[12px] px-[16px] mt-3 md:py-[12px] md:px-[24px] text-[#FFFEFC] bg-[#D64C27]" > What's Included in Rent?  </button></a>
+           <a target='_blank' rel='noreferrer' href="https://firebasestorage.googleapis.com/v0/b/grc-logistics.appspot.com/o/files%2FSouthside%20by%20Union%20Digital%20(2).pdf?alt=media&token=113cfd63-377c-4aa4-a362-01cdb240478a" download> <button className="uppercase flex items-center justify-center gap-2 lg:gap-3 rounded-lg shadow-md  font-[NeueMedium] ease-in duration-300  text-[12px] md:text-[16px]  hover:shadow-none hover:bg-[#272727] tracking-wider py-[12px] px-[16px] mt-3 md:py-[12px] md:px-[24px] text-[#FFFEFC] bg-[#D64C27]" > What's Included in Rent?  </button></a>
            </div>
     </div>
   )
